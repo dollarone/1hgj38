@@ -1,2 +1,2 @@
-# 1HGJ31 - "Waiting Room"
+# 1HGJ38 - "The Sorceress"
 http://onehourgamejam.com/
